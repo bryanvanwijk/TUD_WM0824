@@ -1,1 +1,1 @@
-# TUD_WM0824
+# WM0824 Economics of Cybersecurity
