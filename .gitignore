@@ -40,3 +40,6 @@ poodlessl.csv
 
 *.RDataTmp
 *.RData
+
+# IntelliJ IDEA files
+.idea/
