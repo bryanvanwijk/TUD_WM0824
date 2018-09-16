@@ -1,0 +1,17 @@
+The data is captured from 2018-01-01 12:25:31 to 2018-08-30 19:13:12
+Number of unique IP addresses: 		     367,108
+#IP address using at least once > sslv3	     364,001
+The total data set consists of records: 	28,357,106				
+Number of IPs with multiple entries:		
+records where handshake == sslv3		     392,924
+servers using SSLv3 in the first record 	         3,062 
+servers using SSLv3 in the last record 	         3,054 
+IP entries that use both sslv3 and a newer one    8,363
+
+
+How many hosts remain vulnerable up to the end of the data set
+How many hosts migrate to the new SSL handshake versions on a daily basis
+Potentially aggregate hosts by region/country for analysis
+Outliers (People who go from newer encryption to older ones)
+
+Ars Technica article on the issue: https://arstechnica.com/information-technology/2014/10/ssl-broken-again-in-poodle-attack/
